@@ -6,3 +6,7 @@ Make sure that you have Git installed and that you can run its commands from a s
 install django_heroku from pip install django-heroku
 to run the code use >> python manage.py migrate and then use >> python manage.py runserver
 and then entre and check the weather forcasting in the output.
+
+
+resume : https://drive.google.com/file/d/1LSVstyzyqM6Nzy_G2mEejdVZk775CUQ-/view?usp=sharing
+linkedin: https://www.linkedin.com/in/nisha-hiremani-614b671b1
